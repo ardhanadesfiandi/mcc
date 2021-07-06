@@ -1,0 +1,7 @@
+---
+applications:
+ - name: MCC
+   random-route: true
+   path: target/MCC.war
+   memory: 256M
+   instances: 1
